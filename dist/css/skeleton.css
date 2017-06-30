@@ -343,7 +343,7 @@ input[type="reset"].button-primary,
 input[type="button"].button-primary {
     color: #FFF;
     background-color: #6528a9;
-    /*border-color: #ef69e4;*/
+    border-color: #6528a9;
 }
 
 .button.button-primary:hover,
@@ -358,7 +358,7 @@ input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
     color: #FFF;
     background-color: #8854c3;
-    /*border-color: #1EAEDB;*/
+    border-color: #8854c3;
 }
 
 
@@ -380,6 +380,7 @@ select {
     background-color: #fff;
     border: 1px solid #D1D1D1;
     border-radius: 4px;
+    color: #000;
     box-shadow: none;
     box-sizing: border-box;
 }
